@@ -1,1 +1,1 @@
-git tutoriql sample just ignore
+git tutorial sample just ignore
